@@ -11,7 +11,7 @@ Short (up to two paragraphs) statement about your product:
 * The puprose.
 * What it does.
 
-![](header.png)
+![](head.png)
 
 ## Installation
 
