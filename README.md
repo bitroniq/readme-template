@@ -1,5 +1,5 @@
 # Product Name
-> Short text about what your project and what it does.
+> Short text about your project and what it does.
 
 [![LICENSE][license-image]][license-url]
 [![Jekyll][jekyll-image]][jekyll-url]
