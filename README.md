@@ -8,7 +8,7 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 Short (up to two paragraphs) statement about your product:
-* The puprose.
+* The purpose.
 * What it does.
 
 ![](head.png)
